@@ -1,0 +1,4 @@
+Event ID,TimeCreated,IpAddress,TargetUserName,Message
+4624,2026-01-15T08:00:00Z,192.0.2.10,analyst,Successful fictional demo logon
+4625,2026-01-15T08:01:00Z,198.51.100.55,analyst,Failed fictional demo logon
+4740,2026-01-15T08:02:00Z,198.51.100.55,analyst,Fictional demo account lockout
